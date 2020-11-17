@@ -1,3 +1,4 @@
 Hello
 world
 Перевод: Привет мир
+(c) Sergey Golubev
